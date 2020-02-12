@@ -6,7 +6,9 @@
     <link rel="stylesheet" href="numberRandomiser.css">
   </head>
   <body>
-    <h1 id="header"> This the Number Randomiser! </h1>
+    <div id="header">
+      <h1> This the Number Randomiser! </h1>
+    </div>
     <?php
     $output = shell_exec('python r.py');
     echo "<p> The python script said </p>";
