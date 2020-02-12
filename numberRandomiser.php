@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="numberRandomiser.css">
   </head>
   <body>
-    <div id="header">
+    <div class="header">
       <h1> This the Number Randomiser! </h1>
     </div>
     <?php
