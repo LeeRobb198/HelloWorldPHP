@@ -1,7 +1,3 @@
-<?php
-echo '<h1>This is the Lab3 Page</h1>';
-?>
-
 <!DOCTYPE html>
 <html>
   <head>
