@@ -10,7 +10,7 @@
       <h1> This the Number Randomiser! </h1>
     </div>
     <?php
-    $output = shell_exec('python r.py');
+    $output = shell_exec('python r2.py');
     echo "<p> The python script said </p>";
     echo "<pre>$output</pre>";
     ?>
